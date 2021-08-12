@@ -1,0 +1,54 @@
+{
+  "name": "@dewebsitejongens/cz-customizable",
+  "version": "0.1.0",
+  "description": "Commitizen customizable adapter following the conventional-changelog format.",
+  "authors": [
+    {
+      "name": "Nick Vlug",
+      "email": "nick@dewebsitejongens.nl"
+    }
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "websitejongens",
+    "dewebsitejongens",
+    "commitizen",
+    "cz-customizable"
+  ],
+  "homepage": "https://github.com/dewebsitejongens/cz-customizable/tree/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dewebsitejongens/cz-customizable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dewebsitejongens/cz-customizable/issues"
+  },
+  "dependencies": {
+    "editor": "^1.0.0",
+    "find-config": "^1.0.0",
+    "inquirer": "^8.1.2",
+    "lodash.concat": "^4.5.0",
+    "lodash.filter": "^4.6.0",
+    "lodash.find": "^4.6.0",
+    "lodash.get": "^4.4.2",
+    "lodash.reject": "^4.6.0",
+    "lodash.trim": "^4.5.1",
+    "temp": "^0.9.4",
+    "word-wrap": "^1.2.3"
+  },
+  "bin": {
+    "cz-customizable": "./bin/customizable.js"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "src",
+    "types",
+    "bin/customizable.js"
+  ],
+  "types": "./types/index.d.ts",
+  "main": "./src/index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}

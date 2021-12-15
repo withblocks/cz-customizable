@@ -1,27 +1,26 @@
 {
-  "name": "@dewebsitejongens/cz-customizable",
+  "name": "@withblocks/cz-customizable",
   "version": "0.1.0",
   "description": "Commitizen customizable adapter following the conventional-changelog format.",
   "authors": [
     {
       "name": "Nick Vlug",
-      "email": "nick@dewebsitejongens.nl"
+      "email": "nick@withblocks.com"
     }
   ],
   "license": "GPL-3.0",
   "keywords": [
-    "websitejongens",
-    "dewebsitejongens",
+    "withblocks",
     "commitizen",
     "cz-customizable"
   ],
-  "homepage": "https://github.com/dewebsitejongens/cz-customizable/tree/main/README.md",
+  "homepage": "https://github.com/withblocks/cz-customizable/tree/main/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dewebsitejongens/cz-customizable.git"
+    "url": "https://github.com/withblocks/cz-customizable.git"
   },
   "bugs": {
-    "url": "https://github.com/dewebsitejongens/cz-customizable/issues"
+    "url": "https://github.com/withblocks/cz-customizable/issues"
   },
   "dependencies": {
     "editor": "^1.0.0",

@@ -1,4 +1,4 @@
-# @dewebsitejongens/cz-customizable
+# @withblocks/cz-customizable
 
 The customizable Commitizen plugin (or standalone utility) to help achieve consistent commit messages like
 the [AngularJS team](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#-git-commit-guidelines).
@@ -8,7 +8,7 @@ the [AngularJS team](https://github.com/angular/angular.js/blob/master/CONTRIBUT
 Install the module
 
 ```bash
-yarn add @dewebsitejongens/cz-customizable --dev
+yarn add @withblocks/cz-customizable --dev
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ To configure cz-customizable you could use our default configuration, put the co
 
 ```js
 /*
- * Copyright (c) 2021 De Website Jongens. All rights reserved.
+ * Copyright (c) 2021 With Blocks. All rights reserved.
  *
  * Licensed under the terms of the LICENSE file distributed with this project.
  */
